@@ -1,0 +1,40 @@
+.book .book-summary .book-logo {
+    display: block;
+    text-align: center;
+    padding: 0px;
+}
+
+.theme-code-header .title {
+    font-size: 2em;
+    font-weight: 700;
+    display: block;
+    vertical-align: middle;
+    white-space: nowrap;
+    padding: 10px 0;
+    color: #008cff;
+    margin: 0;
+    font-family: cursive;
+}
+.book-summary{
+	width: 300px;
+}
+.book-summary ul.summary{
+	padding-left: 10px;
+}
+.book-summary ul.summary li {
+    margin-top: 7px;
+}
+
+.system-navigation-logo {
+	margin-right:10px;
+	display:inline-block;
+	width:240px;
+}
+
+/*.tag {
+	border: solid 1px #0087ff;
+    border-radius: 3px;
+    padding: 2px 5px;
+    text-decoration: none;
+    margin-right: 10px;
+}*/
